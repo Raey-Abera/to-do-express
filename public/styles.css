@@ -1,0 +1,13 @@
+body{
+  background: rgb(207, 218, 240);
+  color:rgb(76,64,64);
+}
+h3{
+  margin-top: 40px;
+}
+section{
+  margin-left: 30%;
+  width: 40%;
+  background-color: lightblue;
+  color:rgb(197, 148, 232);
+}
